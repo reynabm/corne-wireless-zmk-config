@@ -37,9 +37,9 @@
 
             label = "TKArrow";
             bindings = <
-&kp TAB    &trans    &kp UP    &trans     &trans  &kp C_MUTE      &kp K_PLAY_PAUSE  &kp N7   &kp N8  &kp N9  &trans  &kp BSPC
-&kp LCTRL  &kp LEFT  &kp DOWN  &kp RIGHT  &trans  &kp C_VOL_UP    &kp DOT           &kp N4   &kp N5  &kp N6  &trans  &kp RCTRL
-&kp LSHFT  &trans    &trans    &trans     &trans  &kp C_VOL_DN    &kp N0            &kp N1   &kp N2  &kp N3  &trans  &kp RSHFT
+&kp TAB    &trans    &kp UP    &trans     &trans  &kp C_MUTE      &kp K_PLAY_PAUSE  &kp N7   &kp N8  &kp N9  &kp DEL  &kp ESC
+&kp LCTRL  &kp LEFT  &kp DOWN  &kp RIGHT  &trans  &kp C_VOL_UP    &kp DOT           &kp N4   &kp N5  &kp N6  &trans   &kp RCTRL
+&kp LSHFT  &trans    &trans    &trans     &trans  &kp C_VOL_DN    &kp N0            &kp N1   &kp N2  &kp N3  &trans   &kp RSHFT
                                &kp LGUI   &to 0   &kp SPACE       &kp SPACE         &kp RET  &to 2
             >;
         };
